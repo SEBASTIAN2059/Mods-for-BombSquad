@@ -1,1 +1,1 @@
-# Mods-for-BombSquad
+# Mods for BombSquad
