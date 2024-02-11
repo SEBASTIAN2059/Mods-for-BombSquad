@@ -1,6 +1,6 @@
 # Mods for BombSquad
 
-Descargar https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/test.py {:target="_blank" download}
+[Descargar archivo](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/test.py "Descargar archivo"){:target="_blank" download}
 
 [![DownloadIcon]][DownloadLink]
 
