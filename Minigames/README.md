@@ -12,7 +12,7 @@ Informacion sobre los minijuegos:
 **Modalidad de juego:** Por equipos\
 **Clasificacion:** Por puntos\
 **Ultima version:** 1.1.0 (api 8)\
-**Versiones de juego:** [API 8 (1.7.20+)](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/api%208%20(1.7.20%2B)/hot_bomb.py)
+**Versiones de juego:** [API 8 (1.7.20+)](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/api%208%20(1.7.20%2B)/hot_bomb.py), [API 7 (1.7.19)](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/api%207%20(1.7.19)/hot_bomb.py)
 
 ### English (Ingles)
 
@@ -29,4 +29,4 @@ Information about the minigames:
 **Game mode:** Team-based\
 **Clasificacion:** Points-based\
 **Latest version:** 1.1.0 (api 8)\
-**Game Versions:** [API 8 (1.7.20+)](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/api%208%20(1.7.20%2B)/hot_bomb.py)
+**Game Versions:** [API 8 (1.7.20+)](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/api%208%20(1.7.20%2B)/hot_bomb.py), [API 7 (1.7.19)](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/api%207%20(1.7.19)/hot_bomb.py)
