@@ -1,3 +1,8 @@
 # Mods for BombSquad
+### Español (Spanish)
 
-[Descargar archivo](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/test.py)
+Aqui encontraras algunos mods que desarrolle para BombSquad
+
+### English (Ingles)
+
+Here you will find some mods that I developed for BombSquad
