@@ -2,16 +2,16 @@
 
 Informacion sobre los minijuegos:
 
-> Hot Bomb
+### **[Hot Bomb](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/hot_bomb.py)**
 
 **Descripcion General:**
     Es un minijuego por equipos en el cual tendras que pasar una pelota en llamas antes de que esta detone. si logras hacer que detone en el campo contrario tu equipo obtiene un punto, sin embargo, si detona en tu campo sera punto para el equipo contrario.
 
 ### English (Ingles)
 
-Info:
+Information about the minigames:
 
-> Hot Bomb
+### **[Hot Bomb](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/hot_bomb.py)**
 
-**Descripcion General:**
-    Es un minijuego por equipos en el cual tendras que pasar una pelota en llamas antes de que esta detone. si logras hacer que detone en el campo contrario tu equipo obtiene un punto, sin embargo, si detona en tu campo sera punto para el equipo contrario.
+**General Description:**
+    It is a team minigame in which you will have to pass a ball on fire before it detonates. If you manage to make it detonate in the opposite field, your team gets a point; however, if it detonates in your field, it will be a point for the opposing team.
