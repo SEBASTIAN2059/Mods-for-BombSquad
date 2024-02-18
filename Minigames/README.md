@@ -2,10 +2,15 @@
 
 Informacion sobre los minijuegos:
 
-### **[Hot Bomb](https://github.com/SEBASTIAN2059/Mods-for-BombSquad/blob/main/Minigames/hot_bomb.py)**
+### **Hot Bomb**
 
 **Descripcion General:**
     Es un minijuego por equipos en el cual tendras que pasar una pelota en llamas antes de que esta detone. si logras hacer que detone en el campo contrario tu equipo obtiene un punto, sin embargo, si detona en tu campo sera punto para el equipo contrario.
+
+**Detalles**
+
+> Modalidad de juego: Por equipos
+> Versiones: [API 8 (1.7.20+)](hot_bomb.py)
 
 ### English (Ingles)
 
