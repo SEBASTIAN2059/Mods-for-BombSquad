@@ -1,6 +1,11 @@
 # Released under the MIT License. See LICENSE for details.
 #
-"""Hot Bomb game by SEBASTIAN2059 and zPanxo"""
+"""
+
+Hot Bomb game by SEBASTIAN2059 and zPanxo
+Version: 1.1.0
+
+"""
 
 # ba_meta require api 8
 # (see https://ballistica.net/wiki/meta-tag-system)
