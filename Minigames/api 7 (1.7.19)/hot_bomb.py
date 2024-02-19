@@ -3,7 +3,6 @@
 """
 
 Hot Bomb game by SEBASTIAN2059 and zPanxo
-Version: 1.0.0
 
 """
 
